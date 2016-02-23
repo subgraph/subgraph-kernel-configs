@@ -1,9 +1,8 @@
-find . -name '*subgraph_config*' | sort -d | xargs wc -l | head -n -1 
    7225 ./00_subgraph_base/subgraph_config_4.2.3-1
    7150 ./4.2.3/subgraph_config_4.2.3-2
    7095 ./4.2.3/subgraph_config_4.2.3-3
    6951 ./4.2.5/subgraph_config_4.2.5-1
    6952 ./4.2.5/subgraph_config_4.2.5-2
-   6952 ./4.3.3/subgraph_config-4.3.3
+   6952 ./4.3.3/subgraph_config-4.3.3_1
    7004 ./4.3.3/subgraph_config-4.3.3_2
-
+   7004 ./4.3.5/subgraph_config-4.3.5_1
