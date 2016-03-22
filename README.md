@@ -37,6 +37,8 @@ Networking Support:
 Device drivers:
 - Parallel port support
 
+- User namespaces
+
 ## FAQ
 
 1. Why not start with a minimal configuration and add only what is needed?
