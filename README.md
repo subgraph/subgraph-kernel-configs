@@ -39,6 +39,13 @@ Device drivers:
 
 - User namespaces
 
+## Generating STATS.md
+
+Run the following command:
+```
+find . -name '*subgraph_config*' | sort -d | xargs wc -l | head -n -1 > STATS.md
+```
+
 ## FAQ
 
 1. Why not start with a minimal configuration and add only what is needed?
