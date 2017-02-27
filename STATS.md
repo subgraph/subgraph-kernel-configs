@@ -9,3 +9,9 @@
    7080 ./4.4.2/subgraph_config-4.4.2_1
    7084 ./4.4.6/subgraph_config-4.4.6_1
    7178 ./4.5.7/subgraph_config-4.5.7_1
+   7324 ./4.7.6/subgraph_config-4.7.6_1
+   7324 ./4.7.9/subgraph_config-4.7.9_1
+   7374 ./4.8.11/subgraph_config-4.8.11_1
+   7374 ./4.8.15/subgraph_config-4.8.15_1
+   7421 ./4.9.8/subgraph_config-4.9.8_1
+   7421 ./4.9.9/subgraph_config-4.9.9_1
